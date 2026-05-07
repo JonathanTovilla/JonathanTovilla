@@ -67,15 +67,6 @@ I am a Data Analyst focused on turning complex data into actionable insights thr
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
----
-
-### 🏆 Profile Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&title=-Reviews&no-frame=true&margin-w=4&margin-h=4" alt="trophy" />
-  </a>
-</div>
 
 ---
 
